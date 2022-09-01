@@ -59,7 +59,7 @@
                 <div class="data">
                     <h2>Riri Annisatunnaza</h2>
                     <i>Web Analis</i><br>
-                    <a href="https://instagram.com/ryichn_?igshid=47fwp0uvo5gd" target="blank" class="fab fa-instagram"></a>
+                    <a href="https://instagram.com/riri_annisaa" target="blank" class="fab fa-instagram"></a>
                     <a href="https://wa.me/08886399105" target="blank" class="fab fa-whatsapp"></a>
                     <a href="mailto:Ririannisa74@gmail.com" target="blank" class="fas fa-envelope"></a>
                 </div>
@@ -68,8 +68,8 @@
                 <img src="vendor/img/Wanfah.png" alt="" style="padding-bottom: 20px;" />
                 <div class="data2">
                     <h2>Wanfah Diva</h2>
-                    <i>Web Programer & Web Designer</i><br>
-                    <a href="https://instagram.com/wanfah_diva?igshid=an6w22b8bnfn" target="blank" class="fab fa-instagram"></a>
+                    <i>Web Programer</i><br>
+                    <a href="https://instagram.com/wanfahdiva" target="blank" class="fab fa-instagram"></a>
                     <a href="https://wa.me/6287797584795" target="blank" class="fab fa-whatsapp"></a>
                     <a href="mailto:wanfahdiva07@gmail.com" target="blank" class="fas fa-envelope"></a>
                 </div>
@@ -99,7 +99,7 @@
                 <video src="vendor/img/school.mp4" autoplay loop muted></video>
             </div>
         </div>
-        <div class="clear-sec">
+        <div class="clear-sec" data-aos="fade-up" data-aos-duration="1000">
             <div class="title-school">
                 <h4>Fasilitas</h4>
                 <p> SMK Informatika Sumedang sudah memiliki berbagai fasilitas sarana dan prasarana yang mendukung dalam

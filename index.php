@@ -116,7 +116,6 @@
             <div class="d-flex my-4 align-items-start" data-aos="fade-right" data-aos-duration="1000">
                 <div class="mr-3 text-center mt-2">
                     <div class="p-4 ml-2 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center" style="height: 40px; width: 40px; background-color: #0089ff">1</div>
-                    <span class="text-secondary">Langkah</span>
                 </div>
                 <div class="rounded bg-light p-4">
                     <h5 class="mb-3" style="font-weight: 600;">Apa yang anda rasakan?</h5>
@@ -126,7 +125,6 @@
             <div class="d-flex my-4 align-items-start" data-aos="fade-right" data-aos-duration="800">
                 <div class="mr-3 text-center mt-2">
                     <div class="p-4 ml-2 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center" style="height: 40px; width: 40px; background-color: #0089ff">2</div>
-                    <span class="text-secondary">Langkah</span>
                 </div>
                 <div class="rounded bg-light p-4">
                     <h5 class="mb-3" style="font-weight: 600;">Konsultasikan keluhan anda pada caredoc</h5>
@@ -136,7 +134,6 @@
             <div class="d-flex my-4 align-items-start" data-aos="fade-right" data-aos-duration="600">
                 <div class="mr-3 text-center mt-2">
                     <div class="p-4 ml-2 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center" style="height: 40px; width: 40px; background-color: #0089ff">3</div>
-                    <span class="text-secondary">Langkah</span>
                 </div>
                 <div class="rounded bg-light p-4">
                     <h5 class="mb-3" style="font-weight: 600;">Dapatkan informasi kesehatan</h5>

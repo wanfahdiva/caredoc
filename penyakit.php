@@ -93,7 +93,7 @@ if ($hasil < 1) {
                         <div class="bee-sketch red"></div>
                         <div class="bee-sketch blue"></div>
                     </div>
-                    <h1>404:<small>Maaf data penyakit <span class="font-weight-bold" style="text-decoration:underline;">' . $_GET['q'] . '</span> yang anda cari belum tersedia :(</h1>
+                    <h1><small>Maaf data penyakit <span class="font-weight-bold" style="text-decoration:underline;">' . $_GET['q'] . '</span> yang anda cari belum tersedia.</h1>
                     </div>
                     </div>
                 ';
@@ -122,7 +122,7 @@ if ($hasil < 1) {
             ?>
                 <div class="col-sm-6 p-3">
                     <div class="container">
-                        <div class="card sdh2 mb-3">
+                        <div class="card sdh2 mb-3" data-aos="fade-up" data-aos-duration="1000">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
                                     <img src="vendor/img/penyakit/<?= "$gambar"; ?>" class="card-img mt-10" alt="...">
@@ -144,13 +144,6 @@ if ($hasil < 1) {
         </div>
     </div>
     <!-- akhir penyakit -->
-
-    <!-- modal -->
-    <!-- Scrollable modal -->
-    <div class="modal-dialog modal-dialog-scrollable">
-
-    </div>
-    <!-- akhir modal -->
 
     <!-- footer -->
     <div class="footer-section" id="footer">
